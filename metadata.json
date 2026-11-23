@@ -1,0 +1,8 @@
+{
+  "name": "HANDSTAND Gym & Power Fitness",
+  "description": "HANDSTAND Gym & Power Fitness — Strength training, weight training, and a motivating fitness environment at Gomant Vidya Niketan, Comba, Margao, Goa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
